@@ -23,11 +23,6 @@ This document has two parts: Data preparation (1) and Data analysis (2).
 Function to model general additive models is provided separately (see function_GAM.R). 
 Code for figures used in the method figure is also provided separately (see supplementary_method_figure.R) 
 
-Data needed for the analysis can be accessed through this link: 
-https://www.dropbox.com/scl/fo/zs23bkgvtrg08lfcw5t7t/AKpLUG1AlkEvMt9KJzZ_ejc?rlkey=i481sxkk8sj5st2x7nqtu9m9n&st=q4djguji&dl=0
-
-GAM predictions data is also included to avoid the running time of the models. 
-
 #1. Data preparation
 ##Abundance data
 ```{r}
