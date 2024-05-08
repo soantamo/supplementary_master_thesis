@@ -1,4 +1,4 @@
-################ 
+################ Function GAMs
 # Function to model species' abundances along temperature with generalized additive models. 
 # Prediction of GAMs with mgcv and validation of model assumptions with DHARMa. 
 # predictions() function is a loop to separate the species
