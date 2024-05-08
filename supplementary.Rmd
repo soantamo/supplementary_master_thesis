@@ -1,5 +1,5 @@
 ---
-title: "Supplementary Master Thesis"
+title: "Supplementary Information Master Thesis"
 author: "Sophie Moreau"
 date: "2024-05-08"
 output: html_document
